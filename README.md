@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IgorAlvesCamisa
+- 👀 I'm interested in becoming a programmer
+- 🌱 I am currently learning Programming Fundamentals
+- 📫 How to contact me: igoralves.dev7@gmail.com
+- 📱 Social media: instagram @_alvesigor7
